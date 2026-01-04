@@ -1,0 +1,7 @@
+,sales,sales,sales,sales,revenue,profit_margin,customers
+,mean,std,min,max,sum,mean,mean
+category,,,,,,,
+Books,1024.71,305.87,200.0,1780.5,18548284.64,0.24,49.76
+Clothing,994.44,485.77,175.44,2600.59,17973699.78,0.25,49.78
+Electronics,998.75,347.05,140.0,2190.77,18274172.55,0.25,49.92
+Home Goods,1038.23,286.65,200.0,1789.71,18918978.38,0.24,49.95
